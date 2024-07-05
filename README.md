@@ -1,6 +1,8 @@
 # Saci Backend
 
-> This is the backend module of the Saci project, its purpose is to serve as a comprehensive guide and learning tool for aspiring software engineers.
+> This is the backend module of the Saci project, its purpose is to serve as a comprehensive guide and learning tool for software engineers and other careers.
+
+To check how Saci works and its rules, check this [repository](https://github.com/Saci-Career/saci-admin)
 
 # Table of Contents
 
