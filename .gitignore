@@ -1,0 +1,7 @@
+/.idea/
+/target/
+/mysql-data/
+/*.mv.db
+/*.lock.db
+/*.trace.db
+/bytebase-data/

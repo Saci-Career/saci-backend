@@ -1,0 +1,12 @@
+version: '3'
+services:
+  mysql:
+    container_name: saci-database
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: esp
+      MYSQL_DATABASE: saci
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./mysql-data:/var/lib/mysql

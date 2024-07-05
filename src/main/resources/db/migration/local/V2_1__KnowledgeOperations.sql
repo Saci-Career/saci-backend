@@ -1,0 +1,32 @@
+INSERT INTO knowledge (role_id, name, weight) VALUES (1, 'Javas', 5);
+INSERT INTO knowledge (role_id, name, weight) VALUES (1, 'SQL', 5);
+INSERT INTO knowledge (role_id, name, weight) VALUES (1, 'Spring Framework', 4);
+INSERT INTO knowledge (role_id, name, weight) VALUES (1, 'Database Optimization', 3);
+INSERT INTO knowledge (role_id, name, weight) VALUES (1, 'Security Best Practices', 2);
+INSERT INTO knowledge (role_id, name, weight) VALUES (3, 'Git and Version Control', 3);
+INSERT INTO knowledge (role_id, name, weight) VALUES (3, 'HTML', 5);
+INSERT INTO knowledge (role_id, name, weight) VALUES (3, 'CSS', 5);
+INSERT INTO knowledge (role_id, name, weight) VALUES (3, 'JavaScript', 4);
+INSERT INTO knowledge (role_id, name, weight) VALUES (3, 'React', 4);
+INSERT INTO knowledge (role_id, name, weight) VALUES (3, 'Performance Optimization', 2);
+INSERT INTO knowledge (role_id, name, weight) VALUES (2, 'Leadership', 5);
+INSERT INTO knowledge (role_id, name, weight) VALUES (2, 'Communication', 4);
+INSERT INTO knowledge (role_id, name, weight) VALUES (2, 'Project Management', 4);
+INSERT INTO knowledge (role_id, name, weight) VALUES (2, 'Conflict Resolution', 2);
+INSERT INTO knowledge (role_id, name, weight) VALUES (2, 'Team Building', 3);
+INSERT INTO knowledge (role_id, name, weight) VALUES (4, 'System Design', 5);
+INSERT INTO knowledge (role_id, name, weight) VALUES (4, 'Cloud Architecture', 4);
+INSERT INTO knowledge (role_id, name, weight) VALUES (4, 'Microservices', 4);
+INSERT INTO knowledge (role_id, name, weight) VALUES (4, 'Scalability', 4);
+INSERT INTO knowledge (role_id, name, weight) VALUES (4, 'Security Architecture', 3);
+INSERT INTO knowledge (role_id, name, weight) VALUES (4, 'Data Modeling', 3);
+INSERT INTO knowledge (role_id, name, weight) VALUES (4, 'DevOps', 2);
+INSERT INTO knowledge (role_id, name, weight) VALUES (5, 'Agile Methodologies', 5);
+INSERT INTO knowledge (role_id, name, weight) VALUES (5, 'Risk Management', 4);
+INSERT INTO knowledge (role_id, name, weight) VALUES (5, 'Stakeholder Management', 4);
+INSERT INTO knowledge (role_id, name, weight) VALUES (5, 'Budgeting', 2);
+INSERT INTO knowledge (role_id, name, weight) VALUES (5, 'Scheduling', 4);
+INSERT INTO knowledge (role_id, name, weight) VALUES (5, 'Quality Assurance', 3);
+INSERT INTO knowledge (role_id, name, weight) VALUES (5, 'Resource Allocation', 2);
+
+
